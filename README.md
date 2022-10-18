@@ -11,11 +11,11 @@ Sebagai tugas akhir dari masa kontrakmu sebagai intern Data Scientist di ID/X Pa
 1. File dataset yang disediakan terdiri dari satu file data (format csv) dan satu data dictionary (format xlsx) yang berisikan informasi mengenai masing-masing kolom yang ada pada file data. Silahkan pelajari informasi mengenai data tersebut untuk mengetahui langkah apa yang perlu dilakukan untuk mempersiapkan data
 2. Siapkan tools yang akan kamu gunakan untuk membantu pengerjaan soal seperti yang telah dijelaskan di prerequisite, lalu import data untuk mempersiapkan pengerjaan.
 3. Terdapat dua skenario pengumpulan tugas berdasarkan bahasa pemrograman yang kamu gunakan untuk mengerjakan final project ini.
-a. Apabila kamu menggunakan R untuk mengerjakan tugas ini, kamu perlu mengumpulkan:
+### a. Apabila kamu menggunakan R untuk mengerjakan tugas ini, kamu perlu mengumpulkan:
 - File Code dengan format .R
 - File R Markdown dengan format .Rmd
 - File infografis sebagai media presentasi end-to-end solution yang telah kamu buat
-b. Apabila kamu menggunakan Python untuk mengerjakan tugas ini, kamu perlu mengumpulkan:
+### b. Apabila kamu menggunakan Python untuk mengerjakan tugas ini, kamu perlu mengumpulkan:
 - File Code dengan format .py
 - File Python Notebook dengan format .ipynb
 - File infografis sebagai media presentasi end-to-end solution yang telah kamu buat
